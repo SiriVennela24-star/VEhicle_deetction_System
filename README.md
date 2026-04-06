@@ -1,45 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>YOLO Vehicle Detection, Tracking and Counting</title>
 
-<style>
-body{
-    font-family: Arial, Helvetica, sans-serif;
-    margin:40px;
-    background:#f4f6f8;
-    line-height:1.7;
-}
-
-.container{
-    background:white;
-    padding:30px;
-    border-radius:10px;
-    box-shadow:0px 0px 15px rgba(0,0,0,0.1);
-}
-
-h1,h2{
-    color:#0a4d8c;
-}
-
-code{
-    background:#eee;
-    padding:3px 6px;
-    border-radius:5px;
-}
-
-.section{
-    margin-bottom:25px;
-}
-
-.footer{
-    margin-top:40px;
-    text-align:center;
-    font-size:14px;
-    color:gray;
-}
 </style>
 </head>
 
@@ -226,6 +188,7 @@ YOLO tracking mode uses tracking algorithms such as:
 <li>Real-time object tracking implemented</li>
 <li>Class-wise vehicle counting successful</li>
 <li>Minimal duplicate counting due to ID persistence</li>
+    
 </ul>
 
 </div>
