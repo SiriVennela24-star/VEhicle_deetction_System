@@ -188,6 +188,7 @@ YOLO tracking mode uses tracking algorithms such as:
 <li>Real-time object tracking implemented</li>
 <li>Class-wise vehicle counting successful</li>
 <li>Minimal duplicate counting due to ID persistence</li>
+<img src="C:/Users/hi/yolo11/images/detection_output.png" width="700"> 
     
 </ul>
 
